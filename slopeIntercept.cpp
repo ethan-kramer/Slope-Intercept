@@ -1,11 +1,9 @@
 // file: SlopeIntercept.cpp
-// HW 2
 // by: Ethan Kramer
-// org: COP 2001, CRN: 10410
 // desc: Converts either two-point or point-slope form into slope intercept form, calculate line's length, angle and degrees, and graph the line
 // --------------------------------------------------------
 #include <iostream>				// console library for debugging
-#define _USE_MATH_DEFINES		// enable M_PI
+#define _USE_MATH_DEFINES			// enable M_PI
 #include <math.h>				// for sqrt, pwr, atan2, M_PI
 
 #include "slopeIntercept.h"
