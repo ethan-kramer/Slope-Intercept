@@ -1,5 +1,5 @@
 # Slope-Intercept
-Takes a line either in Point-Slope Form or Two-Point Form, converts it to Slope-Intercept Form, and graphs the line<br>
+Object-Oriented program that takes a line either in Point-Slope Form or Two-Point Form, converts it to Slope-Intercept Form, and graphs the line<br>
 using OpenGL library for C++.
 
 # Main Menu
